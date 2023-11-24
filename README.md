@@ -1,6 +1,6 @@
 # SemiLT
 SemiLT: a semi-supervised batch-correction single-cell label transfer model using neural networks.<br>
-Code reference [scJoint](https://github.com/SydneyBioX/scJoint).
+Code reference [`scJoint`](https://github.com/SydneyBioX/scJoint).
 
 ## Dataset
 All datasets used in our paper can be found.<br>
