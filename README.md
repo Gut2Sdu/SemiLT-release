@@ -12,5 +12,5 @@ PBMC:[`RNA+ATAC`](https://stuartlab.org/signac/articles/pbmc_vignette).
 
 ## Tutorial
 We provide examples to help reproduce our experiments.<br>
-* [`Tutorial1: CITE-ASAP`](https://github.com/Gut2Sdu/SemiLT/blob/main/tutorial/CITE-seq%20and%20ASAP-seq%20integration%20using%20SemiLT.ipynb).<br>
-* [`Tutorial2: MCA-subset`](https://github.com/Gut2Sdu/SemiLT/blob/main/tutorial/MCA-subset%20dataset%20integration%20using%20SemiLT.ipynb).<br>
+* Tutorial1: [`CITE-ASAP`](https://github.com/Gut2Sdu/SemiLT/blob/main/tutorial/CITE-seq%20and%20ASAP-seq%20integration%20using%20SemiLT.ipynb).<br>
+* Tutorial2: [`MCA-subset`](https://github.com/Gut2Sdu/SemiLT/blob/main/tutorial/MCA-subset%20dataset%20integration%20using%20SemiLT.ipynb).<br>
