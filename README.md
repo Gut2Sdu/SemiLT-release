@@ -1,7 +1,7 @@
 # SemiLT
 SemiLT: A semi-supervised transfer learning model for precise annotation of major and rare cell types in scATAC-seq.<br>
 Code reference [`scJoint`](https://github.com/SydneyBioX/scJoint).<br>
-<img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/SemiLT.jpg" width="400px">
+<img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/SemiLT.jpg" width="500px">
 
 
 ## Dataset
