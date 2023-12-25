@@ -4,7 +4,11 @@ Code reference [`scJoint`](https://github.com/SydneyBioX/scJoint).<br>
 <img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/SemiLT.jpg" width="800px">
 
 ## Installation
-The following python packages are required to be installed before running SemiLT:`Scanpy`,`torch`,`itertools`,`scipy`,`numpy`.
+SemiLT can be obtained by simply clonning the github repository:
+```
+git clone https://github.com/Gut2Sdu/SemiLT.git
+```
+The following python packages are required to be installed before running SemiLT:`Scanpy`,`torch`,`itertools`,`scipy`,`numpy`,`sklearn`.
 
 ## Dataset
 All datasets used in our paper can be found.<br>
