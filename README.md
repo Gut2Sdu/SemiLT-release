@@ -8,7 +8,7 @@ SemiLT can be obtained by simply clonning the github repository:
 ```
 git clone https://github.com/Gut2Sdu/SemiLT.git
 ```
-The following python packages are required to be installed before running SemiLT:`Scanpy`,`torch`,`itertools`,`scipy`,`numpy`,`sklearn`.
+The following python packages are required to be installed before running SemiLT: `Scanpy`,`torch`,`itertools`,`scipy`,`numpy`,`sklearn`.
 
 ## Dataset
 All datasets used in our paper can be found.<br>
