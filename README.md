@@ -8,7 +8,9 @@ The following python packages are required to be installed before running SemiLT
 `scanpy`, `torch`, `itertools`, `scipy`, `numpy` and `sklearn`.
 
 clone repository
-`git clone https://github.com/Gut2Sdu/SemiLT-release.git`
+```
+git clone https://github.com/Gut2Sdu/SemiLT-release.git
+```
 
 
 ## Dataset
