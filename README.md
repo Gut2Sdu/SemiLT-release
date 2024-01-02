@@ -4,7 +4,7 @@ Code reference [`scJoint`](https://github.com/SydneyBioX/scJoint).<br>
 <img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/SemiLT.jpg" width="800px">
 
 ## Installation
-clone repository
+SemiLT can be obtained by simply clonning the github repository:
 ```
 git clone https://github.com/Gut2Sdu/SemiLT-release.git
 ```
