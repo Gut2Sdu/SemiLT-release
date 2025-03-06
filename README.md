@@ -7,6 +7,8 @@ Code reference [`scJoint`](https://github.com/SydneyBioX/scJoint).<br>
 The following python packages are required to be installed before running SemiLT: 
 `scanpy`, `torch`, `itertools`, `scipy`, `numpy` and `sklearn`.
 
+The example runtime environment: [`environment.txt`](https://github.com/Gut2Sdu/SemiLT-release/blob/main/environment.txt).<br>
+
 ## Dataset
 All datasets used in our paper can be found.<br>
 Data source: <br>
