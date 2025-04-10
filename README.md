@@ -4,6 +4,13 @@ Code reference [`scJoint`](https://github.com/SydneyBioX/scJoint).<br>
 <img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/Fig-1_00.jpg" width="800px">
 
 ## Installation
+
+SemiLT can be obtained by simply clonning the github repository:
+
+```
+git clone https://github.com/Gut2Sdu/SemiLT-release.git
+```
+
 The following python packages are required to be installed before running SemiLT: 
 `scanpy`, `torch`, `itertools`, `scipy`, `numpy` and `sklearn`.
 
