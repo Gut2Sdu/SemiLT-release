@@ -28,7 +28,7 @@ Data source: <br>
 
 * Data-7: [`RNA+ATAC`](https://github.com/SydneyBioX/scJoint).<br>
 
-* Data-8: [`RNA+ATAC`](https://github.com/dpeerlab/Palantir/).<br>
+* Data-8: [`RNA`](https://github.com/dpeerlab/Palantir/) and [`ATAC`](https://gitlab.com/cvejic-group/integrative-scrna-scatac-human-foetal).<br>
 
 * Data-9:[`RNA+ATAC`](https://stuartlab.org/signac/articles/pbmc_vignette).
 
