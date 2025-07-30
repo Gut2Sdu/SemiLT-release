@@ -33,7 +33,7 @@ Data source: <br>
 * Data-9:[`RNA+ATAC`](https://stuartlab.org/signac/articles/pbmc_vignette).
 
 ## Tutorial
-Perform PCA dimensionality reduction on scATAC-seq data
+Dimensionality Reduction (e.g., PCA) on scATAC-seq Data.<br>
 * Tutorial_PCA: [`data_PCA`](https://github.com/Gut2Sdu/SemiLT-release/blob/main/tutorial/data_PCA.ipynb).<br>
 
 We provide examples to help reproduce our experiments.<br>
