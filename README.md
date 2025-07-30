@@ -1,7 +1,7 @@
 # SemiLT
 SemiLT: a multi-anchor transfer learning method for cross-modality cell label annotation from scRNA-seq to scATAC-seq.<br>
 
-<img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/Fig-1_01.jpg" width="800px">
+<img src="https://github.com/Gut2Sdu/SemiLT/blob/main/Supplementary%20Information/Fig-1_00.jpg" width="800px">
 
 ## Installation
 
