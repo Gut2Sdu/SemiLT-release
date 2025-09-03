@@ -40,3 +40,6 @@ We provide examples to help reproduce our experiments.<br>
 * Tutorial1 (Data-5): [`RNA_ATAC`](https://github.com/Gut2Sdu/SemiLT-release/blob/main/tutorial/RNA-seq%20and%20ATAC-seq%20integration%20using%20SemiLT.ipynb).<br>
 
 * Tutorial2 (Data-7): [`CITE_ASAP`](https://github.com/Gut2Sdu/SemiLT-release/blob/main/tutorial/CITE-seq%20and%20ASAP-seq%20integration%20using%20SemiLT.ipynb).<br>
+
+## Reference
+Zhitong Chen, Maoteng Duan, Xiaoying Wang, Bingqiang Liu. SemiLT: A Multianchor Transfer Learning Method for Cross-Modality Cell Label Annotation from scRNA-seq to scATAC-seq. *Advanced Science*, 2025. https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202507846
