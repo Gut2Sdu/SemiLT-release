@@ -5,19 +5,19 @@ A multi-anchor transfer learning method for cross-modality cell label annotation
 
 ## Installation
 
-SemiLT can be obtained by simply clonning the github repository:
+### Step1. clone repository
 
 ```
 git clone https://github.com/Gut2Sdu/SemiLT-release.git
 ```
 
-create env:
+### Step2. create env:
 ```
 conda create -n SemiLT python=3.7 -y
 conda activate SemiLT
 ```
 
-install pytorch
+### Step3. install pytorch
 ```
 conda install -y \
   pytorch=1.12.1 \
@@ -26,7 +26,7 @@ conda install -y \
   cudatoolkit=10.2 \
   -c pytorch
 ```
-install other dependencies
+### Step4. install other dependencies
 ```
 conda install -y \
   numpy=1.21.5 \
