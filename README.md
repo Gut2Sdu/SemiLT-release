@@ -10,7 +10,8 @@ A multi-anchor transfer learning method for cross-modality cell label annotation
 ```
 git clone https://github.com/Gut2Sdu/SemiLT-release.git
 ```
-
+If you encounter network-related errors (e.g., "Empty reply from server"),
+you can alternatively download the complete source code directly from: https://github.com/Gut2Sdu/SemiLT-release
 ### Step2. create env:
 ```
 conda create -n SemiLT python=3.7 -y
