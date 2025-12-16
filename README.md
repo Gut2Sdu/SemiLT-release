@@ -11,8 +11,49 @@ SemiLT can be obtained by simply clonning the github repository:
 git clone https://github.com/Gut2Sdu/SemiLT-release.git
 ```
 
-The following python packages are required to be installed before running SemiLT: 
-`scanpy`, `torch`, `itertools`, `scipy`, `numpy` and `sklearn`.
+create env:
+```
+conda create -n SemiLT python=3.7 -y
+conda activate SemiLT
+```
+
+install pytorch
+```
+conda install -y \
+  pytorch=1.12.1 \
+  torchvision=0.13.1 \
+  torchaudio=0.12.1 \
+  cudatoolkit=10.2 \
+  -c pytorch
+```
+install other dependencies
+```
+conda install -y \
+  numpy=1.21.5 \
+  scipy=1.7.3 \
+  pandas=1.3.5 \
+  scikit-learn=1.0.2 \
+  networkx=2.6.3 \
+  joblib \
+  tqdm \
+  -c defaults
+```
+```
+conda install -y \
+  anndata=0.8.0 \
+  scanpy=1.9.1 \
+  h5py=3.8.0 \
+  umap-learn=0.5.6 \
+  pynndescent=0.5.13 \
+  natsort=8.4.0 \
+  numba=0.56.4 \
+  llvmlite=0.39.1 \
+  matplotlib=3.5.3 \
+  seaborn=0.12.2 \
+  statsmodels=0.13.5 \
+  patsy=0.5.6 \
+  -c conda-forge
+```
 
 The example runtime environment: [`environment.txt`](https://github.com/Gut2Sdu/SemiLT-release/blob/main/environment.txt).<br>
 
