@@ -46,6 +46,9 @@ conda install -y \
   -c conda-forge
 ```
 
+### Step5. Run demo data
+After installation, set `DB = 'demo'` in `setting.py` and run `main.py` to verify that SemiLT has been installed successfully.
+
 The example runtime environment: [`environment.txt`](https://github.com/Gut2Sdu/SemiLT-release/blob/main/environment.txt).<br>
 
 ## Dataset
