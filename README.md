@@ -12,7 +12,7 @@ git clone https://github.com/Gut2Sdu/SemiLT-release.git
 ```
 If you encounter network-related errors (e.g., "Empty reply from server"),
 you can alternatively download the complete source code directly from: https://github.com/Gut2Sdu/SemiLT-release
-### Step2. Create env:
+### Step2. Create env
 ```
 conda create -n SemiLT python=3.7 -y
 conda activate SemiLT
