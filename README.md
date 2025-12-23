@@ -43,16 +43,6 @@ conda install -y \
 conda install -y \
   anndata=0.8.0 \
   scanpy=1.9.1 \
-  h5py=3.8.0 \
-  umap-learn=0.5.6 \
-  pynndescent=0.5.13 \
-  natsort=8.4.0 \
-  numba=0.56.4 \
-  llvmlite=0.39.1 \
-  matplotlib=3.5.3 \
-  seaborn=0.12.2 \
-  statsmodels=0.13.5 \
-  patsy=0.5.6 \
   -c conda-forge
 ```
 
